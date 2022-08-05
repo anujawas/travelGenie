@@ -44,7 +44,6 @@ Download the repo and then follow the installation methods given below.
 ###### Step 1 - Cd over to the folder
 ###### Step 2 - install the dependencies by npm i --legacy-peer-deps
 ###### Step 3 - node app.js or if you have nodemon installed then use nodemon app.js
-- In order to connect it to backend follow the steps given in travel-diary-backend repo.
 
 
 
